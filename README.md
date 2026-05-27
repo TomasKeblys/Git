@@ -28,6 +28,7 @@ let prompt = require("prompt-sync")();
 //tolimesnis kodas
 
 4. Džiaugamės, kad nebereikės muštis su alert'ais naršyklėje arba hardcode'inti.
+
 Pastabos:
 
    alert() metodas nebeturės prasmės, rezultatus reikės spausdinti per console.log().
