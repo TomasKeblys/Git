@@ -22,7 +22,9 @@ let prompt = require("prompt-sync")();
 Failo pradžios pvz.:
 
 "use strict";
+
 let prompt = require("prompt-sync")();
+
 //tolimesnis kodas
 
 4. Džiaugamės, kad nebereikės muštis su alert'ais naršyklėje arba hardcode'inti.
