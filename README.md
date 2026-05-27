@@ -31,5 +31,7 @@ let prompt = require("prompt-sync")();
 Pastabos:
 
    alert() metodas nebeturės prasmės, rezultatus reikės spausdinti per console.log().
+   
    pateikiant užduotį Teams reikia tik .js failų ir perspėti Mokytoją, kad atlikta su moduliu prompt-sync.
+   
    kiekvienam naujam projektui reikės iš naujo instaliuoti prompt-sync (atlikti aukščiau esančius punktus).
