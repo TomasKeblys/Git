@@ -9,11 +9,13 @@ npm init
 
 Powershell gali mesti klaidą, VScode tada reikia atsidaryti terminalo langą Git Bash (+ dešinėje).
 Gausime keletą užklausų įvesti informaciją (autorius, įvesties failas ir t.t.). Galima tiesiog suspaudinėti Enter.
-Pabaigus projekte atsiras katalogas node_modules bei keletas failų.
+Pabaigus projekte atsiras keletas (vienas) failų projekte.
 
 2. Instaliuojame modulį prompt-sync. Komandinėje eilutėje:
 
 npm install prompt-sync
+
+Projekte atsiras katalogas node_modules.
 
 3. .js failo pradžioje pridedame prompt nukreipimo kodą:
 
